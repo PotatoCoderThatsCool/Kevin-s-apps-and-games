@@ -1,0 +1,19 @@
+.line{
+    height:6px;
+background-color: mediumturquoise;
+    width:70px;
+    margin:8px auto;
+    
+}
+body {
+    text-align:center;
+    font-size: 35px;
+    color:white;
+    background-image:url("https://cutewallpaper.org/21/background-gif-animation/animated-art-art-girl-background-beautiful-beauty-.gif");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{transform:scale(0.9);}
